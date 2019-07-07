@@ -1,10 +1,20 @@
 
-  ${AnsiColor.GREEN}      ██╗${AnsiColor.RED} ██╗   ██╗ ████████╗ ███████╗   ██████╗ ████████╗ ████████╗ ███████╗
-  ${AnsiColor.GREEN}      ██║${AnsiColor.RED} ██║   ██║ ╚══██╔══╝ ██╔═══██╗ ██╔════╝ ╚══██╔══╝ ██╔═════╝ ██╔═══██╗
-  ${AnsiColor.GREEN}      ██║${AnsiColor.RED} ████████║    ██║    ███████╔╝ ╚█████╗     ██║    ██████╗   ███████╔╝
-  ${AnsiColor.GREEN}██╗   ██║${AnsiColor.RED} ██╔═══██║    ██║    ██╔════╝   ╚═══██╗    ██║    ██╔═══╝   ██╔══██║
-  ${AnsiColor.GREEN}╚██████╔╝${AnsiColor.RED} ██║   ██║ ████████╗ ██║       ██████╔╝    ██║    ████████╗ ██║  ╚██╗
-  ${AnsiColor.GREEN} ╚═════╝ ${AnsiColor.RED} ╚═╝   ╚═╝ ╚═══════╝ ╚═╝       ╚═════╝     ╚═╝    ╚═══════╝ ╚═╝   ╚═╝
+  ${AnsiColor.YELLOW}   SSSSSSSSSSSSSSS ${AnsiColor.RED}               AAA               EEEEEEEEEEEEEEEEEEEEEEDDDDDDDDDDDDD
+  ${AnsiColor.YELLOW} SS:::::::::::::::S${AnsiColor.RED}              A:::A              E::::::::::::::::::::ED::::::::::::DDD
+  ${AnsiColor.YELLOW}S:::::SSSSSS::::::S${AnsiColor.RED}             A:::::A             E::::::::::::::::::::ED:::::::::::::::DD
+  ${AnsiColor.YELLOW}S:::::S     SSSSSSS${AnsiColor.RED}            A:::::::A            EE::::::EEEEEEEEE::::EDDD:::::DDDDD:::::D
+  ${AnsiColor.YELLOW}S:::::S            ${AnsiColor.RED}           A:::::::::A             E:::::E       EEEEEE  D:::::D    D:::::D
+  ${AnsiColor.YELLOW}S:::::S            ${AnsiColor.RED}          A:::::A:::::A            E:::::E               D:::::D     D:::::D
+  ${AnsiColor.YELLOW}S::::SSSS          ${AnsiColor.RED}         A:::::A A:::::A           E::::::EEEEEEEEEE     D:::::D     D:::::D
+  ${AnsiColor.YELLOW}  SS::::::SSSSS    ${AnsiColor.RED}        A:::::A   A:::::A          E:::::::::::::::E     D:::::D     D:::::D
+  ${AnsiColor.YELLOW}    SSS::::::::SS  ${AnsiColor.RED}       A:::::A     A:::::A         E:::::::::::::::E     D:::::D     D:::::D
+  ${AnsiColor.YELLOW}       SSSSSS::::S ${AnsiColor.RED}      A:::::AAAAAAAAA:::::A        E::::::EEEEEEEEEE     D:::::D     D:::::D
+  ${AnsiColor.YELLOW}            S:::::S${AnsiColor.RED}     A:::::::::::::::::::::A       E:::::E               D:::::D     D:::::D
+  ${AnsiColor.YELLOW}            S:::::S${AnsiColor.RED}    A:::::AAAAAAAAAAAAA:::::A      E:::::E       EEEEEE  D:::::D    D:::::D
+  ${AnsiColor.YELLOW}SSSSSSS     S:::::S${AnsiColor.RED}   A:::::A             A:::::A   EE::::::EEEEEEEE:::::EDDD:::::DDDDD:::::D
+  ${AnsiColor.YELLOW}S::::::SSSSSS:::::S${AnsiColor.RED}  A:::::A               A:::::A  E::::::::::::::::::::ED:::::::::::::::DD
+  ${AnsiColor.YELLOW}S:::::::::::::::SS ${AnsiColor.RED} A:::::A                 A:::::A E::::::::::::::::::::ED::::::::::::DDD
+  ${AnsiColor.YELLOW} SSSSSSSSSSSSSSS   ${AnsiColor.RED}AAAAAAA                   AAAAAAAEEEEEEEEEEEEEEEEEEEEEEDDDDDDDDDDDDD
 
-${AnsiColor.BRIGHT_BLUE}:: JHipster 🤓  :: Running Spring Boot ${spring-boot.version} ::
-:: https://www.jhipster.tech ::${AnsiColor.DEFAULT}
+${AnsiColor.BRIGHT_BLUE}:: SAED 🤓  :: Running Spring Boot ${spring-boot.version} ::
+:: https://www.saed.com ::${AnsiColor.DEFAULT}

@@ -1,0 +1,7 @@
+diff a/.yo-rc.json b/.yo-rc.json	(rejected hunks)
+@@ -51,4 +51 @@
+-    "languages": [
+-      "es",
+-      "en"
+-    ]
++    "languages": ["es", "en"]

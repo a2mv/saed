@@ -48,6 +48,8 @@
     ],
     "enableTranslation": true,
     "nativeLanguage": "es",
-    "languages": ["es", "en"]
+    "languages": ["es", "en"],
+    "herokuAppName": "salty-ocean-20148",
+    "herokuDeployType": "jar"
   }
 }

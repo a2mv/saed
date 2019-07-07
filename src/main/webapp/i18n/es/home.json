@@ -1,6 +1,6 @@
 {
   "home": {
-    "title": "¡Bienvenido, Java Hipster!",
+    "title": "¡Bienvenido!",
     "subtitle": "Esta es su página de inicio",
     "logged": {
       "message": "Está conectado como \"{{username}}\"."
@@ -11,9 +11,9 @@
       "stackoverflow": "JHipster en Stack Overflow",
       "bugtracker": "JHipster seguimiento de errores",
       "chat": "Sala de chat pública de JHipster",
-      "follow": "contacto @java_hipster en Twitter"
+      "follow": "contacto @a2mv en Twitter"
     },
-    "like": "Si te gusta JHipster, danos una estrella en",
+    "like": "Si te gusta, danos una estrella en",
     "github": "GitHub"
   }
 }
